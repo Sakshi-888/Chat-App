@@ -24,14 +24,10 @@ Installation
 cd chat-app-frontend  
 
 2. Install dependencies:
-   npm install  
-# or  
-yarn install  
+   npm install   or  yarn install  
 
 3. Start the development server:
-   npm run dev  
-# or  
-yarn dev  
+   npm run dev  or  yarn dev  
 
 4. Open the app in your browser at:
    http://localhost:5173  
